@@ -1,6 +1,6 @@
 - ⚓ @Sanjeevi6628
 - 👋 Hi, I’m Sanjeevi.V
-- 👨🏻‍💻 I’m interested in Coding
-- 💻 I’m currently learning Python
+- 👨🏻‍💻 Interested in Coding
+- 🐍 Currently learning Python
 - ⚕️ Not always online
 - 📖 Busy in Learning New Things
